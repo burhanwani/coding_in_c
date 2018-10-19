@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-//stack and queue implementation using linked list 
+// stack and queue implementation using linked list 
 struct stack{
 	int data;
 	struct stack* next;
